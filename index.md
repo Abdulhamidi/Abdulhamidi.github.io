@@ -1,5 +1,5 @@
 
-# Hamid Bamgbopa'a Portfolio
+# Hamid Bamgbopa's Portfolio
 
 I am a Computer Engineering major at CSUF and I plan on graduating in 2028. 
 
